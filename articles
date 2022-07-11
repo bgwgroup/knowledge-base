@@ -1,5 +1,5 @@
 [
-  "popular": {
+  "popular": [
     {
       "id": 1,
       "question": "Question 1",
@@ -15,8 +15,8 @@
       "question": "Question 3",
       "answer": "Answer 3"
     }
-  },
-  "latest": {
+],
+  "latest": [
     {
       "id": 1,
       "question": "Question 4",
@@ -32,5 +32,5 @@
       "question": "Question 6",
       "answer": "Answer 6"
     }
-  }
+  ]
 ]
