@@ -1,0 +1,44 @@
+[
+  {
+    "link": "/",
+    "category": "accounts",
+    "title": "Accounts",
+    "text": "Help about how to manage your Reece account for new & existing customers.",
+    "svg": "accounts.svg"
+  },
+  {
+    "link": "/",
+    "category": "faq",
+    "title": "FAQ's",
+    "text": "Answers to popular questions.  Try our search bar above for more.",
+    "svg": "faqs.svg"
+  },
+  {
+    "link": "/",
+    "category": "max",
+    "title": "maX",
+    "text": "Help for Reece Trade Accounts managing their business online.",
+    "svg": "login.svg"
+  },
+  {
+    "link": "/",
+    "category": "orders",
+    "title": "Orders, Deliveries & Lead Times",
+    "text": "All you need to know about shopping with Reece.",
+    "svg": "orders.svg"
+  },
+  {
+    "link": "/",
+    "category": "products",
+    "title": "Product Information & Services",
+    "text": "Commnq uestions about Reece products and services.",
+    "svg": "products.svg"
+  },
+  {
+    "link": "/",
+    "category": "returns",
+    "title": "Warranties & Returns",
+    "text": "We stand behind the quality of our products. Find out why.",
+    "svg": "returns.svg"
+  }
+]
