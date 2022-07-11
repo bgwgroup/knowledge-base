@@ -1,50 +1,19 @@
 {
-  "articles": [
-    {
-      "popular": [
-        {
-          "question": "How do I apply for a Trade Account?",
-          "answer": "A Trade Account is a very useful asset for any trades business. These accounts are easy to manage and a quick no-fuss way of doing business and managing accounts."
-        },
-        {
-          "question": "How much does it cost to renovate a kitchen?",
-          "answer": "Every kitchen renovation is different, thus the cost to renovate can vary. The most common things that can influence how much your kitchen renovation may cost include."
-        }
-      ],
-      "latest": [
-        {
-          "question": "potassium chloride ER",
-          "answer": "10 mEq Tab"
-        },
-        {
-          "question": "potassium chloride ER",
-          "answer": "10 mEq Tab"
-        }
-      ]
-    }
-  ],
-  "labs": [
-    {
-      "name": "Arterial Blood Gas",
-      "time": "Today",
-      "location": "Main Hospital Lab"
-    },
-    {
-      "name": "TSH",
-      "time": "1 Year",
-      "location": "Primary Care Clinic"
-    }
-  ],
-  "imaging": [
-    {
-      "name": "Chest X-Ray",
-      "time": "Today",
-      "location": "Main Hospital Radiology"
-    },
-    {
-      "name": "Chest X-Ray",
-      "time": "Today",
-      "location": "Main Hospital Radiology"
-    }
-  ]
+  "articles": {
+    "popular": [
+      { "question": "1001", "answer": "Regular" },
+      { "question": "1002", "answer": "Chocolate" },
+      { "question": "1003", "answer": "Blueberry" },
+      { "question": "1004", "answer": "Devil's Food" }
+    ],
+    "latest": [
+      { "question": "5001", "answer": "None" },
+      { "question": "5002", "answer": "Glazed" },
+      { "question": "5005", "answer": "Sugar" },
+      { "question": "5007", "answer": "Powdered Sugar" },
+      { "question": "5006", "answer": "Chocolate with Sprinkles" },
+      { "question": "5003", "answer": "Chocolate" },
+      { "question": "5004", "answer": "Maple" }
+    ]
+  }
 }
