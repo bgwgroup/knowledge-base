@@ -1,19 +1,13 @@
 {
-  "articles": {
-    "popular": [
-      { "question": "1001", "answer": "Regular" },
-      { "question": "1002", "answer": "Chocolate" },
-      { "question": "1003", "answer": "Blueberry" },
-      { "question": "1004", "answer": "Devil's Food" }
-    ],
-    "latest": [
-      { "question": "5001", "answer": "None" },
-      { "question": "5002", "answer": "Glazed" },
-      { "question": "5005", "answer": "Sugar" },
-      { "question": "5007", "answer": "Powdered Sugar" },
-      { "question": "5006", "answer": "Chocolate with Sprinkles" },
-      { "question": "5003", "answer": "Chocolate" },
-      { "question": "5004", "answer": "Maple" }
-    ]
-  }
+  "isbn": "123-456-222",
+  "author": {
+    "lastname": "Doe",
+    "firstname": "Jane"
+  },
+  "editor": {
+    "lastname": "Smith",
+    "firstname": "Jane"
+  },
+  "title": "The Ultimate Database Study Guide",
+  "category": ["Non-Fiction", "Technology"]
 }
